@@ -1,5 +1,5 @@
 <?php
-
+// Проверка соеднения по новому
 require_once 'Product_03.php';
 
 class Ch2_Book extends Ch2_Product
